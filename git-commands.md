@@ -20,4 +20,7 @@
 ` git push -u origin main `
 ## Used to push commit to remote repository with upstreaming 
 
-## These are 5 important commands of git which we used normally and daily life tasks
+## 6. 
+` git init ` 
+
+## These are 6 important commands of git which we used normally and daily life tasks
